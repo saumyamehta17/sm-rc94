@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SM RailsCast 94
 ===============
 
@@ -35,3 +36,7 @@ rails server
 rails s
 ```
 
+=======
+sm-rc94
+=======
+>>>>>>> c3d2c7c3a3179c81a0ac34f66b206b315ec151d8
